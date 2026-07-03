@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Servicio de formación</title>
+<desc id="desc">Ilustración original creada para la web de AME Ourense.</desc>
+<defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c90058"/><stop offset="0.55" stop-color="#f04a2a"/><stop offset="1" stop-color="#ffb000"/></linearGradient>
+  <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4e8"/><stop offset="1" stop-color="#ffe7f1"/></linearGradient>
+  <linearGradient id="g3" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4b0d33"/><stop offset="1" stop-color="#8b1151"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="28" stdDeviation="26" flood-color="#3b0826" flood-opacity="0.16"/></filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="26"/></filter>
+</defs>
+<rect width="1200" height="800" rx="48" fill="#fff8f4"/>
+<circle cx="1040" cy="130" r="230" fill="#ffd36b" opacity=".35" filter="url(#soft)"/>
+<circle cx="120" cy="700" r="260" fill="#c90058" opacity=".12" filter="url(#soft)"/>
+<path d="M40 610 C230 535, 380 735, 600 625 S970 520, 1160 625 L1160 800 L40 800 Z" fill="url(#g2)"/>
+
+<g filter="url(#shadow)">
+  <rect x="160" y="125" width="650" height="410" rx="42" fill="#fff"/>
+  <rect x="215" y="175" width="540" height="300" rx="26" fill="#fff4f8" stroke="#ecd5df"/>
+  <path d="M270 395 L390 300 L485 350 L585 245 L700 355" fill="none" stroke="url(#g1)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="390" cy="300" r="16" fill="#c90058"/><circle cx="585" cy="245" r="16" fill="#f04a2a"/><circle cx="700" cy="355" r="16" fill="#ffb000"/>
+  <rect x="288" y="222" width="150" height="18" rx="9" fill="#4b0d33" opacity=".12"/>
+  <rect x="288" y="260" width="115" height="18" rx="9" fill="#4b0d33" opacity=".1"/>
+</g>
+<g transform="translate(835 405)" filter="url(#shadow)">
+  <circle cx="0" cy="-95" r="67" fill="#ffd6a0"/>
+  <path d="M-65 -110 c12 -73 92 -96 135 -37 c16 22 17 63 -3 91 c-27 -28 -70 -21 -111 2 c-18 -14 -25 -34 -21 -56z" fill="#4b0d33"/>
+  <rect x="-70" y="-28" width="150" height="210" rx="54" fill="url(#g1)"/>
+  <path d="M-96 43 C-170 80 -185 154 -136 203" fill="none" stroke="#ffd6a0" stroke-width="28" stroke-linecap="round"/>
+  <path d="M72 41 C156 84 174 164 120 218" fill="none" stroke="#ffd6a0" stroke-width="28" stroke-linecap="round"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="250" y="565" width="250" height="76" rx="18" fill="#4b0d33"/>
+  <rect x="280" y="535" width="250" height="76" rx="18" fill="#c90058"/>
+  <rect x="315" y="505" width="250" height="76" rx="18" fill="#ffb000"/>
+  <path d="M350 545 h140" stroke="#fff" stroke-opacity=".65" stroke-width="10" stroke-linecap="round"/>
+</g>
+<g opacity=".9">
+  <path d="M965 178 l16 42 l45 3 l-35 28 l11 44 l-37 -24 l-38 24 l12 -44 l-36 -28 l45 -3z" fill="#ffb000"/>
+  <path d="M995 560 l11 29 l31 2 l-24 20 l8 30 l-26 -16 l-26 16 l8 -30 l-24 -20 l31 -2z" fill="#c90058" opacity=".8"/>
+</g>
+
+</svg>

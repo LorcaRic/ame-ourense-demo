@@ -87,3 +87,8 @@ Se añadió una pasada final de imágenes originales y responsive:
 - Revisión de ancho horizontal en móvil para todas las páginas HTML.
 
 Las imágenes están en `assets/img/visuals/` y no dependen de bancos externos.
+
+
+## Actualización de servicios
+
+Se añade `servicios.html` y una sección destacada en inicio para: Community manager, Subvenciones, Gestión de negocio y Formación. También se actualiza el formulario de contacto con selector de servicio.

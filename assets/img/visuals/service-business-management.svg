@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Servicio de gestión de negocio</title>
+<desc id="desc">Ilustración original creada para la web de AME Ourense.</desc>
+<defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c90058"/><stop offset="0.55" stop-color="#f04a2a"/><stop offset="1" stop-color="#ffb000"/></linearGradient>
+  <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4e8"/><stop offset="1" stop-color="#ffe7f1"/></linearGradient>
+  <linearGradient id="g3" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4b0d33"/><stop offset="1" stop-color="#8b1151"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="28" stdDeviation="26" flood-color="#3b0826" flood-opacity="0.16"/></filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="26"/></filter>
+</defs>
+<rect width="1200" height="800" rx="48" fill="#fff8f4"/>
+<circle cx="1040" cy="130" r="230" fill="#ffd36b" opacity=".35" filter="url(#soft)"/>
+<circle cx="120" cy="700" r="260" fill="#c90058" opacity=".12" filter="url(#soft)"/>
+<path d="M40 610 C230 535, 380 735, 600 625 S970 520, 1160 625 L1160 800 L40 800 Z" fill="url(#g2)"/>
+
+<g filter="url(#shadow)">
+  <rect x="130" y="145" width="690" height="440" rx="38" fill="#fff"/>
+  <rect x="175" y="200" width="600" height="55" rx="22" fill="#fff4f8"/>
+  <circle cx="215" cy="228" r="11" fill="#c90058"/><circle cx="250" cy="228" r="11" fill="#f04a2a"/><circle cx="285" cy="228" r="11" fill="#ffb000"/>
+  <rect x="190" y="300" width="155" height="170" rx="28" fill="#fff8f4" stroke="#edd8e2"/>
+  <rect x="390" y="300" width="155" height="170" rx="28" fill="#fff8f4" stroke="#edd8e2"/>
+  <rect x="590" y="300" width="155" height="170" rx="28" fill="#fff8f4" stroke="#edd8e2"/>
+  <path d="M215 420 C250 355 283 390 320 330" fill="none" stroke="#c90058" stroke-width="12" stroke-linecap="round"/>
+  <rect x="425" y="365" width="26" height="70" rx="13" fill="#c90058"/><rect x="465" y="335" width="26" height="100" rx="13" fill="#f04a2a"/><rect x="505" y="315" width="26" height="120" rx="13" fill="#ffb000"/>
+  <circle cx="668" cy="382" r="54" fill="none" stroke="#4b0d33" stroke-opacity=".2" stroke-width="22"/>
+  <path d="M668 328 a54 54 0 0 1 48 30" fill="none" stroke="url(#g1)" stroke-width="22" stroke-linecap="round"/>
+</g>
+<g transform="translate(830 430)" filter="url(#shadow)">
+  <circle cx="0" cy="0" r="132" fill="url(#g3)"/>
+  <g fill="#fff" opacity=".95">
+    <path d="M-14 -76 h28 l9 45 l41 -23 l20 20 l-23 41 l45 9 v28 l-45 9 l23 41 l-20 20 l-41 -23 l-9 45 h-28 l-9 -45 l-41 23 l-20 -20 l23 -41 l-45 -9 v-28 l45 -9 l-23 -41 l20 -20 l41 23z" opacity=".25"/>
+    <circle cx="0" cy="0" r="42"/>
+  </g>
+</g>
+<g filter="url(#shadow)">
+  <rect x="755" y="165" width="250" height="130" rx="28" fill="#fff"/>
+  <path d="M805 235 h90 M805 260 h140" stroke="#4b0d33" stroke-opacity=".18" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="937" cy="221" r="30" fill="url(#g1)"/>
+</g>
+
+</svg>

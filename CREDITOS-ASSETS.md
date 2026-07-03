@@ -15,3 +15,14 @@ Este paquete incluye una colección ampliada de ilustraciones SVG originales cre
 
 ## Sustitución futura
 Cuando AME tenga fotografías reales de eventos, junta directiva o socias, se recomienda reemplazar algunas ilustraciones por fotografía profesional manteniendo la misma proporción: 16:10 en tarjetas, 21:8 en cabeceras de escritorio y 4:3 en móvil.
+
+
+## Ilustraciones de servicios añadidas
+
+- `assets/img/visuals/services-hero.svg`
+- `assets/img/visuals/service-community-manager.svg`
+- `assets/img/visuals/service-subvenciones.svg`
+- `assets/img/visuals/service-business-management.svg`
+- `assets/img/visuals/service-training.svg`
+
+Ilustraciones vectoriales originales creadas para este paquete.
