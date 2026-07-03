@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title-networking desc-networking">
+  <title id="title-networking">Networking empresarial</title>
+  <desc id="desc-networking">Personas conversando y conectando proyectos en un encuentro profesional</desc>
+  
+  <defs>
+    <linearGradient id="bg-networking" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfb"/>
+      <stop offset="0.45" stop-color="#fff5f8"/>
+      <stop offset="1" stop-color="#fff0dc"/>
+    </linearGradient>
+    <linearGradient id="brand-networking" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c90058"/>
+      <stop offset="0.46" stop-color="#f2386b"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="brand2-networking" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7d0b49"/>
+      <stop offset="0.52" stop-color="#df005f"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <linearGradient id="plum-networking" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0826"/>
+      <stop offset="1" stop-color="#78134c"/>
+    </linearGradient>
+    <linearGradient id="glass-networking" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.54"/>
+    </linearGradient>
+    <radialGradient id="glow-networking" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#ffcf4a" stop-opacity="0.42"/>
+      <stop offset="0.48" stop-color="#f2386b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow-networking" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#3b0826" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softshadow-networking" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#3b0826" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="dots-networking" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#c90058" opacity="0.08"/>
+    </pattern>
+    <pattern id="grid-networking" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0v80" fill="none" stroke="#3b0826" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round-networking"><rect x="0" y="0" width="1600" height="1000" rx="54"/></clipPath>
+  </defs>
+  <g clip-path="url(#round-networking)">
+  
+  <rect width="1600" height="1000" rx="54" fill="url(#bg-networking)"/>
+  <rect width="1600" height="1000" rx="54" fill="url(#grid-networking)" opacity=".55"/>
+  <circle cx="1310" cy="130" r="360" fill="url(#glow-networking)"/>
+  <circle cx="120" cy="880" r="360" fill="#c90058" opacity=".055"/>
+  <path d="M-80 230 C 160 70, 480 40, 760 122 C 980 186, 1110 340, 1660 214" fill="none" stroke="url(#brand-networking)" stroke-width="36" stroke-linecap="round" opacity=".16"/>
+  <path d="M1060 -50 C 1170 185, 1350 210, 1524 92 C 1666 -4, 1728 228, 1530 344 C 1322 466, 1176 385, 1032 160" fill="none" stroke="url(#brand-networking)" stroke-width="50" stroke-linecap="round" opacity=".20"/>
+
+  
+  <g filter="url(#shadow-networking)"><rect x="190" y="160" width="1220" height="670" rx="64" fill="url(#glass-networking)" stroke="#fff"/></g>
+  <ellipse cx="800" cy="720" rx="470" ry="72" fill="#3b0826" opacity=".08"/>
+  <circle cx="800" cy="464" r="170" fill="#ffcf4a" opacity=".18"/>
+  
+    <g filter="url(#softshadow-networking)">
+      <path d="M490.72 534.1600000000001 C 430.24 480.4, 439.2 433.36, 475.03999999999996 413.2" fill="none" stroke="#ffd1b8" stroke-width="19.040000000000003" stroke-linecap="round"/><circle cx="482.88" cy="408.72" r="11.200000000000001" fill="#ffd1b8"/>
+      <path d="M454.88 679.76 C 477.28 561.04, 499.68 516.24, 548.96 500.56 C 607.2 516.24, 631.84 565.52, 652.0 679.76 Z" fill="#c90058"/>
+      <path d="M486.24 576.72 C 519.84 610.32, 578.08 610.32, 611.6800000000001 576.72" fill="none" stroke="#ffffff" stroke-width="7.840000000000001" stroke-linecap="round" opacity=".74"/>
+      <circle cx="544.48" cy="452.4" r="51.52" fill="#ffd1b8"/>
+      <path d="M490.72 455.76 C 477.28 390.8, 524.32 354.96, 587.04 372.88 C 627.36 386.32, 629.6 442.32, 604.96 482.64 C 587.04 452.4, 571.36 426.64, 537.76 431.12 C 515.36 433.36, 504.15999999999997 449.04, 490.72 455.76 Z" fill="#3b0826"/>
+      <circle cx="526.56" cy="455.76" r="4.48" fill="#3b0826" opacity=".65"/>
+      <circle cx="571.36" cy="455.76" r="4.48" fill="#3b0826" opacity=".65"/>
+      <path d="M535.52 486.0 C 553.44 498.32, 573.6 493.84000000000003, 587.04 480.4" fill="none" stroke="#9b214c" stroke-width="5.6000000000000005" stroke-linecap="round" opacity=".55"/>
+    </g>
+  
+    <g filter="url(#softshadow-networking)">
+      <path d="M752.64 525.4 C 719.6 560.8, 705.44 600.92, 710.16 643.4" fill="none" stroke="#f4b497" stroke-width="20.06" stroke-linecap="round" opacity=".95"/>
+      <path d="M724.32 664.64 C 747.92 539.56, 771.52 492.36, 823.44 475.84 C 884.8 492.36, 910.76 544.28, 932.0 664.64 Z" fill="#ff8a00"/>
+      <path d="M757.36 556.0799999999999 C 792.76 591.48, 854.12 591.48, 889.52 556.0799999999999" fill="none" stroke="#ffffff" stroke-width="8.26" stroke-linecap="round" opacity=".74"/>
+      <circle cx="818.72" cy="425.1" r="54.279999999999994" fill="#f4b497"/>
+      <path d="M762.08 428.64 C 747.92 360.2, 797.48 322.44, 863.56 341.32 C 906.04 355.48, 908.4 414.48, 882.44 456.96 C 863.56 425.1, 847.04 397.96, 811.64 402.68 C 788.04 405.04, 776.24 421.56, 762.08 428.64 Z" fill="#581038"/>
+      <circle cx="799.84" cy="428.64" r="4.72" fill="#3b0826" opacity=".65"/>
+      <circle cx="847.04" cy="428.64" r="4.72" fill="#3b0826" opacity=".65"/>
+      <path d="M809.28 460.5 C 828.16 473.48, 849.4 468.76, 863.56 454.6" fill="none" stroke="#9b214c" stroke-width="5.8999999999999995" stroke-linecap="round" opacity=".55"/>
+    </g>
+  
+    <g filter="url(#softshadow-networking)">
+      <path d="M1144.24 538.88 C 1219.12 516.0, 1242.0 470.24, 1271.12 445.28" fill="none" stroke="#ffcfb7" stroke-width="18.72" stroke-linecap="round"/><circle cx="1277.3600000000001" cy="441.12" r="11.440000000000001" fill="#ffcfb7"/>
+      <path d="M1006.96 669.9200000000001 C 1027.76 559.6800000000001, 1048.56 518.08, 1094.32 503.52 C 1148.4 518.08, 1171.28 563.84, 1190.0 669.9200000000001 Z" fill="#7d0b49"/>
+      <path d="M1036.08 574.24 C 1067.28 605.44, 1121.36 605.44, 1152.56 574.24" fill="none" stroke="#ffffff" stroke-width="7.28" stroke-linecap="round" opacity=".74"/>
+      <circle cx="1090.16" cy="458.8" r="47.84" fill="#ffcfb7"/>
+      <path d="M1040.24 461.92 C 1027.76 401.6, 1071.44 368.32, 1129.68 384.96 C 1167.12 397.44, 1169.2 449.44, 1146.32 486.88 C 1129.68 458.8, 1115.12 434.88, 1083.92 439.04 C 1063.12 441.12, 1052.72 455.68, 1040.24 461.92 Z" fill="#2e071f"/>
+      <circle cx="1073.52" cy="461.92" r="4.16" fill="#3b0826" opacity=".65"/>
+      <circle cx="1115.12" cy="461.92" r="4.16" fill="#3b0826" opacity=".65"/>
+      <path d="M1081.84 490.0 C 1098.48 501.44, 1117.2 497.28, 1129.68 484.8" fill="none" stroke="#9b214c" stroke-width="5.2" stroke-linecap="round" opacity=".55"/>
+    </g>
+  <g filter="url(#softshadow-networking)"><rect x="626" y="666" width="350" height="80" rx="30" fill="#fff" stroke="#eadde4"/><path d="M680 706 H920" stroke="url(#brand-networking)" stroke-width="16" stroke-linecap="round" opacity=".76"/></g>
+  <path d="M558 310 C 672 236, 934 226, 1065 302" stroke="url(#brand-networking)" stroke-width="12" stroke-linecap="round" opacity=".42" fill="none"/>
+  <text x="230" y="888" text-anchor="start" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:37px;letter-spacing:-1.2px;">Networking: conversaciones que se convierten en oportunidades</text>
+
+  </g>
+</svg>

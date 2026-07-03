@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d">
+<title id="t">Comunidad profesional conectada</title><desc id="d">Red de puntos conectados que representa una comunidad de empresarias.</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#C90058"/><stop offset=".55" stop-color="#F2386B"/><stop offset="1" stop-color="#FFB000"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#3b0826" flood-opacity=".13"/></filter></defs>
+<rect width="900" height="640" rx="36" fill="#ffffff"/>
+<path d="M135 425 L290 260 L435 365 L610 190 L755 330" fill="none" stroke="#3b0826" stroke-width="5" opacity=".13"/>
+<path d="M135 425 L290 260 L435 365 L610 190 L755 330" fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" stroke-dasharray="14 18"/>
+<g filter="url(#s)" fill="#fff"><circle cx="135" cy="425" r="68"/><circle cx="290" cy="260" r="68"/><circle cx="435" cy="365" r="68"/><circle cx="610" cy="190" r="68"/><circle cx="755" cy="330" r="68"/></g>
+<g fill="url(#g)"><circle cx="135" cy="425" r="38"/><circle cx="290" cy="260" r="38"/><circle cx="435" cy="365" r="38"/><circle cx="610" cy="190" r="38"/><circle cx="755" cy="330" r="38"/></g>
+<g fill="#fff" font-family="Arial" font-size="28" font-weight="800" text-anchor="middle"><text x="135" y="435">A</text><text x="290" y="270">M</text><text x="435" y="375">E</text><text x="610" y="200">+</text><text x="755" y="340">∞</text></g>
+</svg>

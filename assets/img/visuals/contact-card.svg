@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title-contactcard desc-contactcard">
+  <title id="title-contactcard">Tarjeta de contacto AME</title>
+  <desc id="desc-contactcard">Ilustración compacta con canales de contacto y ubicación</desc>
+  
+  <defs>
+    <linearGradient id="bg-contactcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfb"/>
+      <stop offset="0.45" stop-color="#fff5f8"/>
+      <stop offset="1" stop-color="#fff0dc"/>
+    </linearGradient>
+    <linearGradient id="brand-contactcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c90058"/>
+      <stop offset="0.46" stop-color="#f2386b"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="brand2-contactcard" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7d0b49"/>
+      <stop offset="0.52" stop-color="#df005f"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <linearGradient id="plum-contactcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0826"/>
+      <stop offset="1" stop-color="#78134c"/>
+    </linearGradient>
+    <linearGradient id="glass-contactcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.54"/>
+    </linearGradient>
+    <radialGradient id="glow-contactcard" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#ffcf4a" stop-opacity="0.42"/>
+      <stop offset="0.48" stop-color="#f2386b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow-contactcard" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#3b0826" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softshadow-contactcard" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#3b0826" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="dots-contactcard" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#c90058" opacity="0.08"/>
+    </pattern>
+    <pattern id="grid-contactcard" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0v80" fill="none" stroke="#3b0826" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round-contactcard"><rect x="0" y="0" width="1600" height="1000" rx="54"/></clipPath>
+  </defs>
+  <g clip-path="url(#round-contactcard)">
+  
+  <rect width="1600" height="1000" rx="54" fill="url(#bg-contactcard)"/>
+  <rect width="1600" height="1000" rx="54" fill="url(#grid-contactcard)" opacity=".55"/>
+  <circle cx="1310" cy="130" r="360" fill="url(#glow-contactcard)"/>
+  <circle cx="120" cy="880" r="360" fill="#c90058" opacity=".055"/>
+  <path d="M-80 230 C 160 70, 480 40, 760 122 C 980 186, 1110 340, 1660 214" fill="none" stroke="url(#brand-contactcard)" stroke-width="36" stroke-linecap="round" opacity=".16"/>
+  <path d="M1060 -50 C 1170 185, 1350 210, 1524 92 C 1666 -4, 1728 228, 1530 344 C 1322 466, 1176 385, 1032 160" fill="none" stroke="url(#brand-contactcard)" stroke-width="50" stroke-linecap="round" opacity=".20"/>
+
+  
+  <g filter="url(#shadow-contactcard)"><rect x="250" y="190" width="1100" height="620" rx="64" fill="url(#glass-contactcard)" stroke="#fff"/></g>
+  <g filter="url(#softshadow-contactcard)">
+    <rect x="360" y="300" width="440" height="300" rx="40" fill="#3b0826"/>
+    <rect x="408" y="350" width="250" height="24" rx="12" fill="#ffcf4a"/><rect x="408" y="410" width="330" height="20" rx="10" fill="#ffffff" opacity=".7"/><rect x="408" y="466" width="300" height="20" rx="10" fill="#ffffff" opacity=".38"/>
+    <circle cx="892" cy="450" r="112" fill="url(#brand-contactcard)"/><text x="892" y="475" text-anchor="middle" fill="#fff" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:100px;letter-spacing:-1.2px;">@</text>
+    <rect x="860" y="598" width="280" height="66" rx="33" fill="#fff"/><text x="1000" y="640" text-anchor="middle" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:28px;letter-spacing:0;">628 110 077</text>
+  </g>
+  <text x="330" y="745" text-anchor="start" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:39px;letter-spacing:-1.2px;">Email, teléfono y dirección siempre visibles</text>
+
+  </g>
+</svg>

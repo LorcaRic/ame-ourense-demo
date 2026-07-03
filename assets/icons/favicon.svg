@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="AME Ourense">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#C90058"/><stop offset="0.55" stop-color="#F2386B"/><stop offset="1" stop-color="#FFB000"/></linearGradient></defs>
+  <rect width="120" height="120" rx="28" fill="#3b0826"/>
+  <path d="M18 74 C28 32 62 16 91 22 C102 25 103 39 97 46 C78 34 52 43 39 63 C30 77 44 82 61 70 C74 61 85 53 100 58 C94 77 75 96 51 96 C27 96 13 91 18 74Z" fill="url(#g)"/>
+  <text x="60" y="76" text-anchor="middle" font-size="32" font-family="Arial, sans-serif" font-weight="800" fill="white">AME</text>
+</svg>

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title-events desc-events">
+  <title id="title-events">Eventos AME</title>
+  <desc id="desc-events">Cabecera de agenda con networking, formación e instituciones</desc>
+  
+  <defs>
+    <linearGradient id="bg-events" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfb"/>
+      <stop offset="0.45" stop-color="#fff5f8"/>
+      <stop offset="1" stop-color="#fff0dc"/>
+    </linearGradient>
+    <linearGradient id="brand-events" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c90058"/>
+      <stop offset="0.46" stop-color="#f2386b"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="brand2-events" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7d0b49"/>
+      <stop offset="0.52" stop-color="#df005f"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <linearGradient id="plum-events" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0826"/>
+      <stop offset="1" stop-color="#78134c"/>
+    </linearGradient>
+    <linearGradient id="glass-events" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.54"/>
+    </linearGradient>
+    <radialGradient id="glow-events" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#ffcf4a" stop-opacity="0.42"/>
+      <stop offset="0.48" stop-color="#f2386b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow-events" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#3b0826" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softshadow-events" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#3b0826" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="dots-events" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#c90058" opacity="0.08"/>
+    </pattern>
+    <pattern id="grid-events" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0v80" fill="none" stroke="#3b0826" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round-events"><rect x="0" y="0" width="1600" height="1000" rx="54"/></clipPath>
+  </defs>
+  <g clip-path="url(#round-events)">
+  
+  <rect width="1600" height="1000" rx="54" fill="url(#bg-events)"/>
+  <rect width="1600" height="1000" rx="54" fill="url(#grid-events)" opacity=".55"/>
+  <circle cx="1310" cy="130" r="360" fill="url(#glow-events)"/>
+  <circle cx="120" cy="880" r="360" fill="#c90058" opacity=".055"/>
+  <path d="M-80 230 C 160 70, 480 40, 760 122 C 980 186, 1110 340, 1660 214" fill="none" stroke="url(#brand-events)" stroke-width="36" stroke-linecap="round" opacity=".16"/>
+  <path d="M1060 -50 C 1170 185, 1350 210, 1524 92 C 1666 -4, 1728 228, 1530 344 C 1322 466, 1176 385, 1032 160" fill="none" stroke="url(#brand-events)" stroke-width="50" stroke-linecap="round" opacity=".20"/>
+
+  
+  <g filter="url(#shadow-events)"><rect x="156" y="146" width="1288" height="676" rx="62" fill="url(#glass-events)" stroke="#fff"/></g>
+  <rect x="250" y="242" width="350" height="410" rx="36" fill="#ffffff" stroke="#eadde4" filter="url(#softshadow-events)"/>
+  <rect x="250" y="242" width="350" height="86" rx="36" fill="url(#brand-events)"/>
+  <text x="296" y="304" text-anchor="start" fill="#ffffff" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:950;font-size:34px;letter-spacing:-1.2px;">Agenda</text>
+  <g opacity=".92">
+    <rect x="300" y="378" width="240" height="20" rx="10" fill="#3b0826" opacity=".16"/><rect x="300" y="430" width="200" height="20" rx="10" fill="#c90058" opacity=".42"/><rect x="300" y="482" width="250" height="20" rx="10" fill="#ff9f00" opacity=".46"/><rect x="300" y="534" width="190" height="20" rx="10" fill="#3b0826" opacity=".16"/>
+  </g>
+  <g filter="url(#softshadow-events)">
+    <rect x="700" y="292" width="620" height="330" rx="42" fill="#3b0826"/>
+    <rect x="742" y="340" width="532" height="192" rx="30" fill="url(#brand-events)" opacity=".96"/>
+    <circle cx="842" cy="682" r="56" fill="#ffffff"/><circle cx="1010" cy="690" r="56" fill="#ffffff"/><circle cx="1182" cy="682" r="56" fill="#ffffff"/>
+  </g>
+  
+    <g filter="url(#softshadow-events)">
+      <path d="M815.4 649.5 C 800.0 666.0, 793.4 684.7, 795.6 704.5" fill="none" stroke="#ffd1b8" stroke-width="9.350000000000001" stroke-linecap="round" opacity=".95"/>
+      <path d="M802.2 714.4 C 813.2 656.1, 824.2 634.1, 848.4 626.4 C 877.0 634.1, 889.1 658.3, 899.0 714.4 Z" fill="#c90058"/>
+      <path d="M817.6 663.8 C 834.1 680.3, 862.7 680.3, 879.2 663.8" fill="none" stroke="#ffffff" stroke-width="3.8500000000000005" stroke-linecap="round" opacity=".74"/>
+      <circle cx="846.2" cy="602.75" r="25.3" fill="#ffd1b8"/>
+      <path d="M819.8 604.4 C 813.2 572.5, 836.3 554.9, 867.1 563.7 C 886.9 570.3, 888.0 597.8, 875.9 617.6 C 867.1 602.75, 859.4 590.1, 842.9 592.3 C 831.9 593.4, 826.4 601.1, 819.8 604.4 Z" fill="#3b0826"/>
+      <circle cx="837.4" cy="604.4" r="2.2" fill="#3b0826" opacity=".65"/>
+      <circle cx="859.4" cy="604.4" r="2.2" fill="#3b0826" opacity=".65"/>
+      <path d="M841.8 619.25 C 850.6 625.3, 860.5 623.1, 867.1 616.5" fill="none" stroke="#9b214c" stroke-width="2.75" stroke-linecap="round" opacity=".55"/>
+    </g>
+  
+    <g filter="url(#softshadow-events)">
+      <path d="M987.8 650.9 C 958.1 624.5, 962.5 601.4, 980.1 591.5" fill="none" stroke="#f4b497" stroke-width="9.350000000000001" stroke-linecap="round"/><circle cx="983.95" cy="589.3" r="5.5" fill="#f4b497"/>
+      <path d="M970.2 722.4 C 981.2 664.1, 992.2 642.1, 1016.4 634.4 C 1045.0 642.1, 1057.1 666.3, 1067.0 722.4 Z" fill="#ff8a00"/>
+      <path d="M985.6 671.8 C 1002.1 688.3, 1030.7 688.3, 1047.2 671.8" fill="none" stroke="#ffffff" stroke-width="3.8500000000000005" stroke-linecap="round" opacity=".74"/>
+      <circle cx="1014.2" cy="610.75" r="25.3" fill="#f4b497"/>
+      <path d="M987.8 612.4 C 981.2 580.5, 1004.3 562.9, 1035.1 571.7 C 1054.9 578.3, 1056.0 605.8, 1043.9 625.6 C 1035.1 610.75, 1027.4 598.1, 1010.9 600.3 C 999.9 601.4, 994.4 609.1, 987.8 612.4 Z" fill="#561036"/>
+      <circle cx="1005.4" cy="612.4" r="2.2" fill="#3b0826" opacity=".65"/>
+      <circle cx="1027.4" cy="612.4" r="2.2" fill="#3b0826" opacity=".65"/>
+      <path d="M1009.8 627.25 C 1018.6 633.3, 1028.5 631.1, 1035.1 624.5" fill="none" stroke="#9b214c" stroke-width="2.75" stroke-linecap="round" opacity=".55"/>
+    </g>
+  
+    <g filter="url(#softshadow-events)">
+      <path d="M1155.4 649.5 C 1140.0 666.0, 1133.4 684.7, 1135.6 704.5" fill="none" stroke="#ffcfb7" stroke-width="9.350000000000001" stroke-linecap="round" opacity=".95"/>
+      <path d="M1142.2 714.4 C 1153.2 656.1, 1164.2 634.1, 1188.4 626.4 C 1217.0 634.1, 1229.1 658.3, 1239.0 714.4 Z" fill="#7d0b49"/>
+      <path d="M1157.6 663.8 C 1174.1 680.3, 1202.7 680.3, 1219.2 663.8" fill="none" stroke="#ffffff" stroke-width="3.8500000000000005" stroke-linecap="round" opacity=".74"/>
+      <circle cx="1186.2" cy="602.75" r="25.3" fill="#ffcfb7"/>
+      <path d="M1159.8 604.4 C 1153.2 572.5, 1176.3 554.9, 1207.1 563.7 C 1226.9 570.3, 1228.0 597.8, 1215.9 617.6 C 1207.1 602.75, 1199.4 590.1, 1182.9 592.3 C 1171.9 593.4, 1166.4 601.1, 1159.8 604.4 Z" fill="#2e071f"/>
+      <circle cx="1177.4" cy="604.4" r="2.2" fill="#3b0826" opacity=".65"/>
+      <circle cx="1199.4" cy="604.4" r="2.2" fill="#3b0826" opacity=".65"/>
+      <path d="M1181.8 619.25 C 1190.6 625.3, 1200.5 623.1, 1207.1 616.5" fill="none" stroke="#9b214c" stroke-width="2.75" stroke-linecap="round" opacity=".55"/>
+    </g>
+  <path d="M700 702 C 842 650, 1038 642, 1320 706" stroke="#ffcf4a" stroke-width="12" stroke-linecap="round" opacity=".65" stroke-dasharray="1 24"/>
+  <text x="190" y="890" text-anchor="start" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:40px;letter-spacing:-1.2px;">Desayunos, talleres, foros y encuentros con sentido</text>
+
+  </g>
+</svg>

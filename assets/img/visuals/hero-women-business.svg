@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title-hero desc-hero">
+  <title id="title-hero">Empresarias conectadas</title>
+  <desc id="desc-hero">Ilustración principal de empresarias, tecnología, red y liderazgo en Ourense</desc>
+  
+  <defs>
+    <linearGradient id="bg-hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfb"/>
+      <stop offset="0.45" stop-color="#fff5f8"/>
+      <stop offset="1" stop-color="#fff0dc"/>
+    </linearGradient>
+    <linearGradient id="brand-hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c90058"/>
+      <stop offset="0.46" stop-color="#f2386b"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="brand2-hero" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7d0b49"/>
+      <stop offset="0.52" stop-color="#df005f"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <linearGradient id="plum-hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0826"/>
+      <stop offset="1" stop-color="#78134c"/>
+    </linearGradient>
+    <linearGradient id="glass-hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.54"/>
+    </linearGradient>
+    <radialGradient id="glow-hero" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#ffcf4a" stop-opacity="0.42"/>
+      <stop offset="0.48" stop-color="#f2386b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow-hero" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#3b0826" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softshadow-hero" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#3b0826" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="dots-hero" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#c90058" opacity="0.08"/>
+    </pattern>
+    <pattern id="grid-hero" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0v80" fill="none" stroke="#3b0826" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round-hero"><rect x="0" y="0" width="1600" height="1000" rx="54"/></clipPath>
+  </defs>
+  <g clip-path="url(#round-hero)">
+  
+  <rect width="1600" height="1000" rx="54" fill="url(#bg-hero)"/>
+  <rect width="1600" height="1000" rx="54" fill="url(#grid-hero)" opacity=".55"/>
+  <circle cx="1310" cy="130" r="360" fill="url(#glow-hero)"/>
+  <circle cx="120" cy="880" r="360" fill="#c90058" opacity=".055"/>
+  <path d="M-80 230 C 160 70, 480 40, 760 122 C 980 186, 1110 340, 1660 214" fill="none" stroke="url(#brand-hero)" stroke-width="36" stroke-linecap="round" opacity=".16"/>
+  <path d="M1060 -50 C 1170 185, 1350 210, 1524 92 C 1666 -4, 1728 228, 1530 344 C 1322 466, 1176 385, 1032 160" fill="none" stroke="url(#brand-hero)" stroke-width="50" stroke-linecap="round" opacity=".20"/>
+
+  
+  
+    <g opacity="0.72">
+      <path d="M0 848 C 240 784, 370 810, 540 838 C 760 876, 960 768, 1220 816 C 1420 852, 1510 802, 1600 826 V1000 H0 Z" fill="#3b0826" opacity=".08"/>
+      <path d="M250 878 H1370" stroke="#3b0826" stroke-opacity=".16" stroke-width="8" stroke-linecap="round"/>
+      <path d="M286 878 C420 760, 640 760, 774 878" fill="none" stroke="#3b0826" stroke-width="8" stroke-opacity=".15"/>
+      <path d="M826 878 C960 770, 1180 770, 1316 878" fill="none" stroke="#3b0826" stroke-width="8" stroke-opacity=".15"/>
+      <rect x="104" y="770" width="74" height="132" rx="8" fill="#3b0826" opacity=".08"/>
+      <rect x="196" y="808" width="90" height="94" rx="8" fill="#3b0826" opacity=".06"/>
+      <rect x="1324" y="782" width="86" height="120" rx="8" fill="#3b0826" opacity=".07"/>
+    </g>
+  <path d="M230 350 C 380 250, 570 218, 802 276 C 1020 330, 1150 502, 1375 396" fill="none" stroke="url(#brand-hero)" stroke-width="22" stroke-linecap="round" opacity=".62"/>
+  <path d="M348 684 C 490 530, 690 464, 920 500 C 1090 526, 1190 604, 1370 560" fill="none" stroke="#ffb300" stroke-width="12" stroke-linecap="round" opacity=".48" stroke-dasharray="2 30"/>
+  <g filter="url(#shadow-hero)"><rect x="260" y="270" width="1080" height="510" rx="56" fill="url(#glass-hero)" stroke="#ffffff" stroke-opacity=".95"/></g>
+  <rect x="330" y="336" width="270" height="74" rx="37" fill="#ffffff" opacity=".92"/><text x="365" y="386" text-anchor="start" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:950;font-size:31px;letter-spacing:0;">Red AME</text>
+  
+    <g filter="url(#softshadow-hero)">
+      <rect x="640" y="562" width="320" height="185" rx="22" fill="#ffffff" stroke="#eadde4"/>
+      <rect x="662" y="582" width="276" height="140" rx="12" fill="#3b0826" opacity=".92"/>
+      <path d="M684 749 H916 L970 789 H630 Z" fill="#ffffff" stroke="#eadde4"/>
+      <circle cx="800.0" cy="654.5" r="18" fill="#ff9f00" opacity=".88"/>
+      <path d="M710 614 H890" stroke="#ffcf4a" stroke-width="6" stroke-linecap="round" opacity=".88"/>
+      <path d="M710 638 H855" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity=".42"/>
+      <path d="M710 662 H870" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity=".22"/>
+    </g>
+  
+    <g filter="url(#softshadow-hero)">
+      <path d="M469.4 545.7 C 407.3 490.5, 416.5 442.2, 453.3 421.5" fill="none" stroke="#ffd1b8" stroke-width="19.549999999999997" stroke-linecap="round"/><circle cx="461.35" cy="416.9" r="11.5" fill="#ffd1b8"/>
+      <path d="M432.6 695.2 C 455.6 573.3, 478.6 527.3, 529.2 511.2 C 589.0 527.3, 614.3 577.9, 635.0 695.2 Z" fill="#c90058"/>
+      <path d="M464.8 589.4 C 499.3 623.9, 559.1 623.9, 593.6 589.4" fill="none" stroke="#ffffff" stroke-width="8.049999999999999" stroke-linecap="round" opacity=".74"/>
+      <circle cx="524.6" cy="461.75" r="52.9" fill="#ffd1b8"/>
+      <path d="M469.4 465.2 C 455.6 398.5, 503.9 361.7, 568.3 380.1 C 609.7 393.9, 612.0 451.4, 586.7 492.8 C 568.3 461.75, 552.2 435.3, 517.7 439.9 C 494.7 442.2, 483.2 458.3, 469.4 465.2 Z" fill="#43102d"/>
+      <circle cx="506.2" cy="465.2" r="4.6" fill="#3b0826" opacity=".65"/>
+      <circle cx="552.2" cy="465.2" r="4.6" fill="#3b0826" opacity=".65"/>
+      <path d="M515.4 496.25 C 533.8 508.9, 554.5 504.3, 568.3 490.5" fill="none" stroke="#9b214c" stroke-width="5.75" stroke-linecap="round" opacity=".55"/>
+    </g>
+  
+    <g filter="url(#softshadow-hero)">
+      <path d="M888.3199999999999 536.84 C 976.16 510.0, 1003.0 456.32, 1037.16 427.04" fill="none" stroke="#f6b99d" stroke-width="21.96" stroke-linecap="round"/><circle cx="1044.48" cy="422.15999999999997" r="13.42" fill="#f6b99d"/>
+      <path d="M727.28 690.56 C 751.6800000000001 561.24, 776.08 512.44, 829.76 495.36 C 893.2 512.44, 920.04 566.12, 942.0 690.56 Z" fill="#ff8a00"/>
+      <path d="M761.44 578.3199999999999 C 798.04 614.92, 861.48 614.92, 898.08 578.3199999999999" fill="none" stroke="#ffffff" stroke-width="8.54" stroke-linecap="round" opacity=".74"/>
+      <circle cx="824.88" cy="442.9" r="56.12" fill="#f6b99d"/>
+      <path d="M766.32 446.56 C 751.6800000000001 375.8, 802.92 336.76, 871.24 356.28 C 915.16 370.92, 917.6 431.92, 890.76 475.84000000000003 C 871.24 442.9, 854.16 414.84, 817.56 419.72 C 793.16 422.15999999999997, 780.96 439.24, 766.32 446.56 Z" fill="#6a173f"/>
+      <circle cx="805.36" cy="446.56" r="4.88" fill="#3b0826" opacity=".65"/>
+      <circle cx="854.16" cy="446.56" r="4.88" fill="#3b0826" opacity=".65"/>
+      <path d="M815.12 479.5 C 834.64 492.92, 856.6 488.03999999999996, 871.24 473.4" fill="none" stroke="#9b214c" stroke-width="6.1" stroke-linecap="round" opacity=".55"/>
+    </g>
+  
+    <g filter="url(#softshadow-hero)">
+      <path d="M1017.04 575.4 C 989.6 604.8, 977.84 638.12, 981.76 673.4" fill="none" stroke="#ffcfb7" stroke-width="16.66" stroke-linecap="round" opacity=".95"/>
+      <path d="M993.52 691.04 C 1013.12 587.16, 1032.72 547.96, 1075.84 534.24 C 1126.8 547.96, 1148.36 591.0799999999999, 1166.0 691.04 Z" fill="#7d0b49"/>
+      <path d="M1020.96 600.88 C 1050.36 630.28, 1101.32 630.28, 1130.72 600.88" fill="none" stroke="#ffffff" stroke-width="6.859999999999999" stroke-linecap="round" opacity=".74"/>
+      <circle cx="1071.92" cy="492.1" r="45.08" fill="#ffcfb7"/>
+      <path d="M1024.88 495.04 C 1013.12 438.2, 1054.28 406.84000000000003, 1109.16 422.52 C 1144.44 434.28, 1146.4 483.28, 1124.84 518.56 C 1109.16 492.1, 1095.44 469.56, 1066.04 473.48 C 1046.44 475.44, 1036.64 489.15999999999997, 1024.88 495.04 Z" fill="#2e071f"/>
+      <circle cx="1056.24" cy="495.04" r="3.92" fill="#3b0826" opacity=".65"/>
+      <circle cx="1095.44" cy="495.04" r="3.92" fill="#3b0826" opacity=".65"/>
+      <path d="M1064.08 521.5 C 1079.76 532.28, 1097.4 528.36, 1109.16 516.6" fill="none" stroke="#9b214c" stroke-width="4.9" stroke-linecap="round" opacity=".55"/>
+    </g>
+  <g filter="url(#softshadow-hero)">
+    <rect x="1015" y="264" width="306" height="188" rx="32" fill="#3b0826" opacity=".95"/>
+    <text x="1056" y="326" text-anchor="start" fill="#ffffff" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:950;font-size:42px;letter-spacing:-1.2px;">+ red</text>
+    <text x="1057" y="370" text-anchor="start" fill="#ffcf4a" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:800;font-size:25px;letter-spacing:0;">+ formación</text>
+    <text x="1057" y="406" text-anchor="start" fill="#ffffff" opacity="0.78" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:800;font-size:25px;letter-spacing:0;">+ visibilidad</text>
+  </g>
+  <g opacity=".88">
+    <circle cx="520" cy="280" r="12" fill="#c90058"/><circle cx="1040" cy="260" r="12" fill="#ff9f00"/><circle cx="1240" cy="570" r="12" fill="#c90058"/><circle cx="386" cy="606" r="12" fill="#ff9f00"/>
+    <path d="M520 280 L1040 260 L1240 570 L386 606 Z" fill="none" stroke="#3b0826" stroke-opacity=".12" stroke-width="5"/>
+  </g>
+  <text x="292" y="860" text-anchor="start" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:40px;letter-spacing:-1.2px;">Comunidad · Empresa · Talento femenino</text>
+
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title-leadership desc-leadership">
+  <title id="title-leadership">Liderazgo empresarial</title>
+  <desc id="desc-leadership">Gráfico ascendente, estrategia y liderazgo femenino empresarial</desc>
+  
+  <defs>
+    <linearGradient id="bg-leadership" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfb"/>
+      <stop offset="0.45" stop-color="#fff5f8"/>
+      <stop offset="1" stop-color="#fff0dc"/>
+    </linearGradient>
+    <linearGradient id="brand-leadership" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c90058"/>
+      <stop offset="0.46" stop-color="#f2386b"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="brand2-leadership" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7d0b49"/>
+      <stop offset="0.52" stop-color="#df005f"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <linearGradient id="plum-leadership" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0826"/>
+      <stop offset="1" stop-color="#78134c"/>
+    </linearGradient>
+    <linearGradient id="glass-leadership" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.54"/>
+    </linearGradient>
+    <radialGradient id="glow-leadership" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#ffcf4a" stop-opacity="0.42"/>
+      <stop offset="0.48" stop-color="#f2386b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow-leadership" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#3b0826" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softshadow-leadership" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#3b0826" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="dots-leadership" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#c90058" opacity="0.08"/>
+    </pattern>
+    <pattern id="grid-leadership" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0v80" fill="none" stroke="#3b0826" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round-leadership"><rect x="0" y="0" width="1600" height="1000" rx="54"/></clipPath>
+  </defs>
+  <g clip-path="url(#round-leadership)">
+  
+  <rect width="1600" height="1000" rx="54" fill="url(#bg-leadership)"/>
+  <rect width="1600" height="1000" rx="54" fill="url(#grid-leadership)" opacity=".55"/>
+  <circle cx="1310" cy="130" r="360" fill="url(#glow-leadership)"/>
+  <circle cx="120" cy="880" r="360" fill="#c90058" opacity=".055"/>
+  <path d="M-80 230 C 160 70, 480 40, 760 122 C 980 186, 1110 340, 1660 214" fill="none" stroke="url(#brand-leadership)" stroke-width="36" stroke-linecap="round" opacity=".16"/>
+  <path d="M1060 -50 C 1170 185, 1350 210, 1524 92 C 1666 -4, 1728 228, 1530 344 C 1322 466, 1176 385, 1032 160" fill="none" stroke="url(#brand-leadership)" stroke-width="50" stroke-linecap="round" opacity=".20"/>
+
+  
+  <g filter="url(#shadow-leadership)"><rect x="160" y="152" width="1280" height="690" rx="64" fill="url(#glass-leadership)" stroke="#fff"/></g>
+  <g filter="url(#softshadow-leadership)">
+    <rect x="270" y="260" width="640" height="410" rx="42" fill="#ffffff" stroke="#eadde4"/>
+    <path d="M340 584 L496 504 L648 530 L818 360" fill="none" stroke="url(#brand-leadership)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M768 360 H818 V410" fill="none" stroke="url(#brand-leadership)" stroke-width="18" stroke-linecap="round"/>
+    <rect x="340" y="610" width="110" height="28" rx="14" fill="#3b0826" opacity=".16"/>
+    <rect x="496" y="570" width="110" height="68" rx="18" fill="#c90058" opacity=".22"/>
+    <rect x="648" y="540" width="110" height="98" rx="18" fill="#ff9f00" opacity=".26"/>
+  </g>
+  
+    <g filter="url(#softshadow-leadership)">
+      <path d="M1178.32 540.84 C 1266.16 514.0, 1293.0 460.32, 1327.16 431.04" fill="none" stroke="#ffcfb7" stroke-width="21.96" stroke-linecap="round"/><circle cx="1334.48" cy="426.15999999999997" r="13.42" fill="#ffcfb7"/>
+      <path d="M1017.28 694.56 C 1041.68 565.24, 1066.08 516.44, 1119.76 499.36 C 1183.2 516.44, 1210.04 570.12, 1232.0 694.56 Z" fill="#7d0b49"/>
+      <path d="M1051.44 582.3199999999999 C 1088.04 618.92, 1151.48 618.92, 1188.08 582.3199999999999" fill="none" stroke="#ffffff" stroke-width="8.54" stroke-linecap="round" opacity=".74"/>
+      <circle cx="1114.88" cy="446.9" r="56.12" fill="#ffcfb7"/>
+      <path d="M1056.32 450.56 C 1041.68 379.8, 1092.92 340.76, 1161.24 360.28 C 1205.16 374.92, 1207.6 435.92, 1180.76 479.84000000000003 C 1161.24 446.9, 1144.16 418.84, 1107.56 423.72 C 1083.16 426.15999999999997, 1070.96 443.24, 1056.32 450.56 Z" fill="#2e071f"/>
+      <circle cx="1095.36" cy="450.56" r="4.88" fill="#3b0826" opacity=".65"/>
+      <circle cx="1144.16" cy="450.56" r="4.88" fill="#3b0826" opacity=".65"/>
+      <path d="M1105.12 483.5 C 1124.64 496.92, 1146.6 492.03999999999996, 1161.24 477.4" fill="none" stroke="#9b214c" stroke-width="6.1" stroke-linecap="round" opacity=".55"/>
+    </g>
+  <circle cx="1190" cy="282" r="58" fill="#fff" stroke="#ff9f00" stroke-width="8"/><text x="1190" y="296" text-anchor="middle" fill="#c90058" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:56px;letter-spacing:-1.2px;">↑</text>
+  <text x="225" y="902" text-anchor="start" fill="#3b0826" opacity="1" style="font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900;font-size:38px;letter-spacing:-1.2px;">Liderar también es medir, decidir y abrir camino</text>
+
+  </g>
+</svg>
